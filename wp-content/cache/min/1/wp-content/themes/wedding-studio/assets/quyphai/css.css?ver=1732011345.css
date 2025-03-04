@@ -901,7 +901,9 @@ textarea {
 .input-text {
     border: 1px solid var(--primary-color);
     padding: 8px 20px;
-    border-radius: 6px
+    border-radius: 6px;
+    color: var(--text-white);
+    background-color: transparent;
 }
 
 .section-message {
